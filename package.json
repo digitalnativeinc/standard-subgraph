@@ -45,6 +45,6 @@
     "ansi-regex": "^5.0.1",
     "keypair": "^1.0.4",
     "keytar": "^7.7.0",
-    "yargs-parser": "^18.1.2"
+    "yargs-parser": "^21.0.1"
   }
 }
