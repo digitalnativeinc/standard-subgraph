@@ -14,7 +14,7 @@
     "deploy": "graph deploy --node $GRAPH_URL --ipfs $IPFS_URL $GRAPH_USER/$CHAIN-blocks subgraph.yaml"
   },
   "dependencies": {
-    "@graphprotocol/graph-cli": "^0.17.1",
+    "@graphprotocol/graph-cli": "^0.33.0",
     "@graphprotocol/graph-ts": "0.17.0"
   }
 }
